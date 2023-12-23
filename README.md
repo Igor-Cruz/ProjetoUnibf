@@ -4,6 +4,7 @@
 
 * [Título](#título)
 * [Índice](#índice)
+* [Descrição do Estágio](#descrição-do-estágio)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
@@ -16,10 +17,9 @@
 ## Título
 Estágio de Ciência da Computação
 
-## Descrição do Projeto
+## Descrição do Estágio
 
 * UniBF - União Brasileira de Faculdades
-* Empresa:
 
 Estágio Supervisionado I - Desenvolvimento de softwares e aplicativos:
 Nessa etapa do estágio supervisionado, foi introduzido o desenvolvimento de softwares e aplicativos.Abordando assim a criação de programas de computadores a partir de uma linguagem de programação (javascript), utilizando ferramentas como IDEs  (visual studio code) e framework react. 
@@ -31,6 +31,11 @@ Estágio Supervisionado III - Consultoria e suporte ao usuário: Nessa etapa, o 
 Estágio Supervisionado IV - Implementação e gestão de sistemas de segurança: Nessa etapa, o aluno será introduzido a sistemas de segurança, tais como firewalls, proxies e sistemas de intrusão. Ele aprenderá a configurar esses sistemas e a adotar práticas de segurança para sistemas em produção. O objetivo é que o aluno desenvolva habilidades para gestão de sistemas de segurança, que são fundamentais para a proteção de dados sensíveis e a prevenção de ataques cibernéticos.
 
 Estágio Supervisionado V - Desenvolvimento para Internet: Nessa etapa final do estágio supervisionado, o aluno será apresentado ao desenvolvimento para internet. Ele aprenderá a criar aplicações web utilizando tecnologias como HTML5, CSS, JavaScript, além de frameworks populares como Angular ou React. O objetivo é que o aluno desenvolva habilidades para o desenvolvimento de aplicações web modernas e interativas, que são fundamentais para o mercado de trabalho atual.
+
+
+## Descrição do Projeto
+
+* Empresa:
 
 ## Status do Projeto
 
